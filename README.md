@@ -3,7 +3,7 @@ Source code for Data Flow Testing assignments
 
 # How to use
 ```sh
-git clone https://github.com/Silverbullet069/bt-kiem-thu-dong-du-lieu.git
+git clone --depth 1 https://github.com/Silverbullet069/bt-kiem-thu-dong-du-lieu.git
 cd bt-kiem-thu-dong-du-lieu
 python -m unittest -v test.py
 ```

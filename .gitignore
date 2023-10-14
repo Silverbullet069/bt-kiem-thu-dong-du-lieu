@@ -1,4 +1,4 @@
-# Custom files
+*.pdf
 image/
 __pycache__/
 testing-dfg/
